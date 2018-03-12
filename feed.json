@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publi-test1",
+    "description": "",
+    "home_page_url": "http://github.com/si-home/publi-test1",
+    "feed_url": "http://github.com/si-home/publi-test1/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "codat-it"
+    },
+    "items": [
+    ]
+}
