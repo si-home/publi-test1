@@ -9,5 +9,18 @@
         "name": "codat-it"
     },
     "items": [
+        {
+            "id": "http://github.com/si-home/publi-test1/testpost-1.html",
+            "url": "http://github.com/si-home/publi-test1/testpost-1.html",
+            "title": "Testpost 1",
+            "content_html": "<p>This is my first post. </p>\n<p> </p>",
+            "author": {
+                "name": "codat-it"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-03-14T00:51:13+01:00",
+            "date_modified": "2018-03-14T00:51:13+01:00"
+        }
     ]
 }

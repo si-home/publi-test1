@@ -3,10 +3,27 @@
     <title>publi-test1</title>
     <link href="http://github.com/si-home/publi-test1/feed.xml" rel="self" />
     <link href="http://github.com/si-home/publi-test1" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2018-03-14T16:35:38+01:00</updated>
     <author>
         <name>codat-it</name>
     </author>
     <id>http://github.com/si-home/publi-test1</id>
 
+    <entry>
+        <title>Testpost 1</title>
+        <author>
+            <name>codat-it</name>
+        </author>
+        <link href="http://github.com/si-home/publi-test1/testpost-1.html"/>
+        <id>http://github.com/si-home/publi-test1/testpost-1.html</id>
+
+        <updated>2018-03-14T00:51:13+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first post. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
