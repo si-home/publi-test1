@@ -3,7 +3,7 @@
     <title>publi-test1</title>
     <link href="http://github.com/si-home/publi-test1/feed.xml" rel="self" />
     <link href="http://github.com/si-home/publi-test1" />
-    <updated>2018-03-18T20:52:59+01:00</updated>
+    <updated>2018-03-18T21:57:17+01:00</updated>
     <author>
         <name>codat-it</name>
     </author>
@@ -160,14 +160,14 @@
         </content>
     </entry>
     <entry>
-        <title>LP 2</title>
+        <title>Du Bist Nicht Die Erste</title>
         <author>
             <name>codat-it</name>
         </author>
         <link href="http://github.com/si-home/publi-test1/testpost-2.html"/>
         <id>http://github.com/si-home/publi-test1/testpost-2.html</id>
 
-        <updated>2018-03-18T20:43:15+01:00</updated>
+        <updated>2018-03-18T21:38:05+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -206,26 +206,10 @@
 <p><strong>Matrix number:</strong> 60-1417<br><strong>Catalog number:</strong> E.G.2202</p>
 <p>Other IDs from the record include: (60-1417); OD31</p>
 </div>
-<h2>Notes</h2>
-<p class="content"> </p>
-<p>The recording on the other side of this disc: <a href="https://archive.org/details/78_im-rosengarten-von-la-plata_juan-llossas-und-sein-tango-orchester-leo-moll-rosen-pl_gbia0011414a" rel="nofollow">Im Rosengarten Von La Plata</a></p>
-<p><strong>Technical Notes:</strong> Some styli skip in the lead-out groove</p>
-<p> </p>
-<div class="metadata-expandable-list">
-<div><span class="key">Boxid</span> <span class="value">IA1501013</span></div>
-<div><span class="key">Collection-catalog-number</span> <span class="value">GBIA0011414B</span></div>
-<div><span class="key">Condition</span> <span class="value">Very Good</span></div>
-<div><span class="key">Genre</span> <span class="value"><a href="https://archive.org/search.php?query=genre%3A%22Latin%22" itemprop="genre">Latin</a></span></div>
-<div><span class="key">Identifier</span> <span class="value">78_du-bist-nicht-die-erste_juan-llossas-und-sein-tango-orchester-leo-moll-jurmann-ettl_gbia0011414b</span></div>
-<div><span class="key">Location</span> <span class="value"><a href="https://archive.org/search.php?query=coverage%3A%22UK%22">UK</a></span></div>
-<div><span class="key">Run time</span> <span class="value">00:03:01</span></div>
-<div><span class="key">Scanner</span> <span class="value">Internet Archive Python library 1.5.0</span></div>
-<div><span class="key">Scanningcenter</span> <span class="value">George Blood, L.P.</span></div>
-<div><span class="key">Size</span> <span class="value">10.0</span></div>
-<div><span class="key">Source</span> <span class="value">78</span></div>
-<div><span class="key">User_cleaned</span> <span class="value">Perry Longo</span></div>
-<div><span class="key">User_metadataentered</span> <span class="value">Liz Rosenberg</span></div>
-<div><span class="key">User_transferred</span> <span class="value">Liz Rosenberg</span></div>
+<div class="lyrics">
+<section class="">
+<p>Bisher kannt' ich viele Frau'n<br>Nur zu dir hab' ich Vertrau'n<br>Verzeihe mir!<br><br>Du bist nicht die Erste, du musst schon verzeih'n<br>Aber meine Letzte, die könntest du sein!<br>Du hast den gewissen Zauber, der ins Blut geht wie der Sekt<br>Den geheimnisvollen Zauber, der die tollsten Wünsche weckt<br>Du bist nicht die Erste, du musst schon verzeih'n<br>Aber meine Letzte könntest du sein!<br>Mit den ander'n Frau'n war mein Herz nie vermählt<br>Da bist du die Erste, die Erste, die zählt!<br><br>Herrliche Tage, wo man noch glaubt<br>Liebe hat Ewigkeit<br>Alles im Leben wird dir geraubt<br>Alles verschlingt die Zeit<br>Und so ganz auf einmal im Leben kommt der Moment<br>Wo man Adieu sagt, lächelnd sich trennt<br>Und dann sehr traurig unverzagt<br>Bis man zur nächsten sagt:<br><br>Du bist nicht die Erste, du musst schon verzeih'n<br>Aber meine Letzte, die könntest du sein!<br>Du hast den gewissen Zauber, der ins Blut geht wie der Sekt<br>Den geheimnisvollen Zauber, der die tollsten Wünsche weckt<br>Du bist nicht die Erste, du musst schon verzeih'n<br>Aber meine Letzte könntest du sein!<br>Mit den ander'n Frau'n war mein Herz nie vermählt<br>Da bist du die Erste, die Erste, die zählt!<br>Die Erste, die zählt! </p>
+</section>
 </div>
 </div>
 </div>
@@ -235,17 +219,18 @@
         </content>
     </entry>
     <entry>
-        <title>LP 1</title>
+        <title>Ich hab&#x27; mein Herz in Heidelberg verloren</title>
         <author>
             <name>codat-it</name>
         </author>
         <link href="http://github.com/si-home/publi-test1/testpost-1.html"/>
         <id>http://github.com/si-home/publi-test1/testpost-1.html</id>
 
-        <updated>2018-03-18T20:45:39+01:00</updated>
+        <updated>2018-03-18T21:23:39+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="http://github.com/si-home/publi-test1/media/posts/1/78_1.-i-surrender-dear-2.-bein-mir-bist-du-schon-means-that-youre-grand-3.-if-i-d_gbia0000683a_itemimage.jpg" alt="" />
                 <h2><span style="font-size: inherit;">Ich hab' mein Herz in Heidelberg verloren</span></h2>
 <p><img class="post__image--left" style="font-size: inherit;" src="http://github.com/si-home/publi-test1/media/posts/1/78_1.-i-surrender-dear-2.-bein-mir-bist-du-schon-means-that-youre-grand-3.-if-i-d_gbia0000683a_itemimage.jpg" alt="" width="277" height="277"></p>
 <div class="container container-ia width-max relative-row-wrap info-top">
@@ -274,11 +259,8 @@
 </div>
 <div class="clearfix"> </div>
 <div id="descript">
-<p><strong>Writer:</strong> Raymond</p>
-<p>Lied.</p>
-<p>Digitized at 78 revolutions per minute. Four stylii were used to transfer this record. They are 3.8mm truncated eliptical, 2.3mm truncated conical, 2.8mm truncated conical, 3.3mm truncated eliptical. These were recorded flat and then also equalized with Turnover: 375.0, Rolloff: -12.0.</p>
-<p>The preferred versions suggested by an audio engineer at George Blood, L.P. have been copied to have the more friendly filenames.</p>
-<p><strong>Matrix number:</strong> 581B<br><strong>Catalog number:</strong> V-581b</p>
+<p>Text: <a href="https://de.wikipedia.org/wiki/Fritz_L%C3%B6hner-Beda" title="Fritz Löhner-Beda">Fritz Löhner-Beda</a> (1883–1942)</p>
+<p><span lang="de">Es war an einem Abend,<br>Als ich kaum 20 Jahr'.<br>Da küßt' ich rote Lippen<br>Und gold'nes, blondes Haar.<br>Die Nacht war blau und selig,<br>Der Neckar silberklar,<br>Da wußte ich, da wußte ich,<br>Woran, woran ich war:<br><br><br>Ich hab' mein Herz in Heidelberg verloren,<br>In einer lauen Sommernacht.<br>Ich war verliebt bis über beide Ohren<br>Und wie ein Röslein hat ihr Mund gelacht.<br>Und als wir Abschied nahmen vor den Toren<br>Beim letzten Kuß, da hab ich's klar erkannt:<br>Daß ich mein Herz in Heidelberg verloren.<br>Mein Herz, es schlägt am Neckarstrand.<br><br><br>2. Und wieder blüht wie damals<br>Am Neckarstrand der Wein,<br>Die Jahre sind vergangen,<br>Und ich bin ganz allein.<br>Und fragt ihr den Gesellen,<br>Warum er keine nahm,<br>Dann sag ich euch, dann sag ich euch,<br>Ihr Freunde, wie es kam.<br>Ich hab' mein Herz . . . . .<br><br><br>3. Was ist aus dir geworden,<br>Seitdem ich dich verließ,<br>Alt-Heidelberg, du Feine,<br>Du deutsches Paradies?<br>Ich bin von dir gezogen,<br>Ließ Leichtsinn, Wein und Glück,<br>Und sehne mich, und sehne mich<br>Mein Leben lang zurück.<br>Ich hab' mein Herz . . . . . .</span></p>
 </div>
 </div>
 </div>
